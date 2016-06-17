@@ -1,0 +1,6 @@
+{
+  "name": "Sornvis",
+  "tagline": "Visualize self-organizing neural network",
+  "body": "### Welcome to Sornvis\r\nHere we visualize a simplified model of Renato Duarte's [Self-organizing reservoir neural network](https://mindmodeling.org/cogsci2014/papers/083/paper083.pdf) which is in turn inspired by the original model published by (insert author name).\r\n\r\n### Authors and Contributors\r\nIris Proff and I implemented and visualized the model. It is currently under development.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
