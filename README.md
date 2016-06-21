@@ -1,2 +1,2 @@
 # sornvis
-<p>visualization.ipynb contains the neural network</p>
+<p>SORN-class.ipynb contains the most recent neural network class</p>
